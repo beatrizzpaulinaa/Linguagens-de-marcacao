@@ -1,6 +1,8 @@
+# ~~Linguagens-de-marcacao~~
+
 # Beatriz Paulina Martins Teixeira
 
-**Sumaré, São Paulo** | (19) 98841-6148 | Beatrizzpaulinaa@gmail.com  
+**Sumaré, São Paulo** | (19) 98841-6148 | [Beatrizzpaulinaa@gmail.com](mailto:Beatrizzpaulinaa@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/beatriz-martins) | [GitHub](https://github.com/beatrizzpaulinaa)
 
 ---
@@ -21,7 +23,8 @@ Desenvolvedora em início de carreira buscando oportunidade na área de **Desenv
 
 ## 🚀 Projetos Desenvolvidos
 
-### **[Currículo Profissional em Markdown](https://github.com/beatrizzpaulinaa/Linguagens-de-marcacao)**
+### [**Currículo Profissional em Markdown**](https://github.com/beatrizzpaulinaa/Linguagens-de-marcacao)
+
 - **Descrição:** Aplicação desenvolvida para a disciplina de Linguagens de Marcação, com o objetivo de estruturar, formatar e publicar um documento de apresentação profissional otimizado para a plataforma GitHub.
 - **Tecnologias Utilizadas:** Git, GitHub e Markdown.
 
@@ -75,3 +78,9 @@ Desenvolvedora em início de carreira buscando oportunidade na área de **Desenv
 
 - **Português:** Nativo
 - **Inglês:** Básico *(cursando)*
+
+---
+
+## 📌 Sobre o Projeto
+
+Este repositório foi desenvolvido como atividade da disciplina de **Linguagens de Marcação**, com o objetivo de praticar a utilização do **Markdown**, organização de informações e publicação de conteúdo no GitHub.
