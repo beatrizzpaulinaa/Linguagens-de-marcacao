@@ -1,0 +1,36 @@
+/* =======================================================
+   PROJETO: PixelGear eSports Store - Folha de Estilos CSS
+   ======================================================= */
+
+/* Configuração do fundo, cor do texto e fonte da página */
+body {
+    background-color: #121214; /* Cor de fundo escura (Dark Mode Gamer) */
+    color: #f7f7f7;            /* Cor do texto em cinza claro */
+    font-family: Arial, Helvetica, sans-serif; /* Fonte limpa e moderna */
+    font-size: 14px; /* Define o tamanho geral do texto */
+    margin: 20px;
+    line-height: 1.5;          /* Espaçamento confortável entre linhas */
+}
+
+/* Controlo do tamanho dos títulos */
+h1 { font-size: 24px; }
+h2 { font-size: 18px; }
+h3 { font-size: 16px; }
+
+/* Estilização das linhas divisórias */
+hr {
+    border: 0;
+    height: 2px;
+    background-color: #ffffff;
+    margin: 20px 0;
+}
+
+/* Destaque para textos importantes e preços */
+strong {
+    color: #f2f2f2; /* Texto em negrito em branco puro */
+}
+
+/* Estilização para o texto do preço antigo riscado */
+strike {
+    color: #a1a0a0;
+}
